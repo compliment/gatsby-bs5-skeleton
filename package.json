@@ -5,7 +5,6 @@
   "version": "0.1.0",
   "author": "",
   "dependencies": {
-
     "bootstrap": "^5.0.1",
     "gatsby": "^3.7.1",
     "gatsby-plugin-buildtime-timezone": "^1.0.3",
@@ -22,8 +21,7 @@
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.1",
     "react-dom": "^17.0.2",
-    "react-helmet": "^6.1.0",
-    
+    "react-helmet": "^6.1.0"
   },
   "license": "Custom",
   "scripts": {
